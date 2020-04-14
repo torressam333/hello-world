@@ -1,5 +1,5 @@
 # hello-world
-My name is Samuel Torres, I am somewhat new to programming but I enjoy it very much.
-My main focus areas are JavaScript, jQuery + AJAX/XML/JSON.
-I am still learning and am going to learn SQL and PHP soon.
-I hope to interact with programmers on here from all over the world. I am also excited to learn from others as I know there are some very experienced programmers out there.
+My name is Samuel Torres, I have been programming for a few years now but profesionally for 1 :P.
+My main focus areas are JavaScript and PHP. Lately I have been very into learning React and Laravel and hope to also dive into Node a bit more. AWS is another area of focus for me as I have been preparing for my CDA Exam. I hope to acquire this Cert. in 2020.
+
+For now, off to code some more.
